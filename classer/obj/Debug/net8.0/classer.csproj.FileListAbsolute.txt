@@ -1,0 +1,15 @@
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\bin\Debug\net8.0\classer.exe
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\bin\Debug\net8.0\classer.deps.json
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\bin\Debug\net8.0\classer.runtimeconfig.json
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\bin\Debug\net8.0\classer.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\bin\Debug\net8.0\classer.pdb
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\classer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\classer.AssemblyInfoInputs.cache
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\classer.AssemblyInfo.cs
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\classer.csproj.CoreCompileInputs.cache
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\classer.sourcelink.json
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\classer.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\refint\classer.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\classer.pdb
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\classer.genruntimeconfig.cache
+C:\Users\leo.kindstedt\Desktop\programmering\Prog2\classer\classer\obj\Debug\net8.0\ref\classer.dll
