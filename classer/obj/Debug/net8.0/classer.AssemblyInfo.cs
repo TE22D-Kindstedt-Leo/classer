@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("classer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28fa0c3437d50f1c6d74eaedb197c06cf25e17c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9185e0c83b322bac09dae588edcf4a45e1f6fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("classer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("classer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

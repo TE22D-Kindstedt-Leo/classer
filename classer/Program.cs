@@ -1,32 +1,22 @@
 ﻿using System;
+namespace classer;
+using System;
 
-class Book
+public class Program
 {
-    // Publika variabler
-    public string Name { get; set; }
-    public int Pages { get; set; }
-
-    // Konstruktor
-    public Book(string name, int pages)
+    public static void Main()
     {
-        Name = name;
-        Pages = pages;
-    }
-}
-
-class Program
-{
-    static void Main()
-    {
+        // Skapa tre instanser av Book-klassen
         Book book1 = new Book("Mysteriet på blå tåget", 250);
         Book book2 = new Book("C#-programmering för nybörjare", 320);
         Book book3 = new Book("Universums mysterier", 450);
 
-        Console.WriteLine($"Bok 1: {book1.Name}, Antal sidor: {book1.Pages}");
-        Console.WriteLine($"Bok 2: {book2.Name}, Antal sidor: {book2.Pages}");
-        Console.WriteLine($"Bok 3: {book3.Name}, Antal sidor: {book3.Pages}");
+        // Testa TurnPage-metoden
+        Console.WriteLine($"Bok 1: {book1.Name}, Totalt antal sidor: {book1.Pages}, Nuvarande sida: {book1.CurrentPage}");
+        book1.TurnPage(); // Bläddra till sida 1
+        book1.TurnPage(); // Bläddra till sida 2
+        Console.WriteLine($"Nuvarande sida i \"{book1.Name}\": {book1.CurrentPage}");
         Console.ReadLine();
         
     }
 }
-
